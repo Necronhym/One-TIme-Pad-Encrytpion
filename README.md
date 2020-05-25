@@ -1,7 +1,7 @@
 # One-TIme-Pad-Encrytpion
 A java program for encryptiong text usign a one time pad, with a GUI intertface
 
-To compile run make or
+To compile run make
 
 To use simply run:
 
