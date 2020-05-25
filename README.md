@@ -1,10 +1,11 @@
 # One-TIme-Pad-Encrytpion
 A java program for encryptiong text usign a one time pad, with a GUI intertface
 
-To compile run make
+To compile run make or
 
 To use simply run:
-java -jar Encryption.jar
+
+```java -jar Encryption.jar```
 
 To encrypt a string select the encrypt option
 Write your text in the input field
